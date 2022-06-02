@@ -2,10 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://1wukai.github.io/</loc>
+    <lastmod>2022-06-02T23:40:35+08:00</lastmod>
+  </url><url>
     <loc>https://1wukai.github.io/categories/</loc>
+    <lastmod>2022-06-02T23:40:35+08:00</lastmod>
+  </url><url>
+    <loc>https://1wukai.github.io/p/first/</loc>
+    <lastmod>2022-06-02T23:40:35+08:00</lastmod>
+  </url><url>
+    <loc>https://1wukai.github.io/tags/helloworld/</loc>
+    <lastmod>2022-06-02T23:40:35+08:00</lastmod>
+  </url><url>
+    <loc>https://1wukai.github.io/categories/helloworld/</loc>
+    <lastmod>2022-06-02T23:40:35+08:00</lastmod>
+  </url><url>
+    <loc>https://1wukai.github.io/p/hello-world/</loc>
+    <lastmod>2022-06-02T23:40:35+08:00</lastmod>
+  </url><url>
+    <loc>https://1wukai.github.io/post/</loc>
+    <lastmod>2022-06-02T23:40:35+08:00</lastmod>
   </url><url>
     <loc>https://1wukai.github.io/tags/</loc>
+    <lastmod>2022-06-02T23:40:35+08:00</lastmod>
   </url><url>
-    <loc>https://1wukai.github.io/</loc>
+    <loc>https://1wukai.github.io/page/</loc>
+    <lastmod>2022-06-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://1wukai.github.io/about/</loc>
+    <lastmod>2022-06-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://1wukai.github.io/archives/</loc>
+    <lastmod>2022-06-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://1wukai.github.io/categories/hello_world/</loc>
+  </url><url>
+    <loc>https://1wukai.github.io/categories/test/</loc>
+  </url><url>
+    <loc>https://1wukai.github.io/search/</loc>
+  </url><url>
+    <loc>https://1wukai.github.io/%E9%93%BE%E6%8E%A5/</loc>
   </url>
 </urlset>

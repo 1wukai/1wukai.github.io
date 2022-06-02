@@ -1,30 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Blog</title>
-        <link>https://1wukai.github.io/</link>
-        <description>Recent content on Blog</description>
+        <title>Pages on Blog</title>
+        <link>https://1wukai.github.io/page/</link>
+        <description>Recent content in Pages on Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-CN</language>
-        <lastBuildDate>Thu, 02 Jun 2022 23:40:35 +0800</lastBuildDate><atom:link href="https://1wukai.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>First</title>
-        <link>https://1wukai.github.io/p/first/</link>
-        <pubDate>Thu, 02 Jun 2022 23:40:35 +0800</pubDate>
-        
-        <guid>https://1wukai.github.io/p/first/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>HelloWorld</title>
-        <link>https://1wukai.github.io/p/hello-world/</link>
-        <pubDate>Thu, 02 Jun 2022 23:40:35 +0800</pubDate>
-        
-        <guid>https://1wukai.github.io/p/hello-world/</guid>
-        <description>&lt;img src="https://1wukai.github.io/p/hello-world/hello.png" alt="Featured image of post HelloWorld" /&gt;&lt;p&gt;Hello World!
-This is my world!&lt;/p&gt;
-</description>
-        </item>
-        <item>
+        <lastBuildDate>Thu, 02 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://1wukai.github.io/page/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>关于</title>
         <link>https://1wukai.github.io/about/</link>
         <pubDate>Thu, 02 Jun 2022 00:00:00 +0000</pubDate>
