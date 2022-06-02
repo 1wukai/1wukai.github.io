@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>HelloWorld on Blog</title>
-        <link>https://1wukai.github.io/categories/hello_world/</link>
+        <link>https://blog.kayworld.cn/categories/hello_world/</link>
         <description>Recent content in HelloWorld on Blog</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>zh-CN</language><atom:link href="https://1wukai.github.io/categories/hello_world/index.xml" rel="self" type="application/rss+xml" />
+        <language>zh-CN</language><atom:link href="https://blog.kayworld.cn/categories/hello_world/index.xml" rel="self" type="application/rss+xml" />
     </channel>
 </rss>
